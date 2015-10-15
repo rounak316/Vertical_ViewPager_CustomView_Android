@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">@color/primary</item>
+
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+
+
+        <item name="colorAccent">@color/accent</item>
+
+
+
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:icon">@color/icons</item>
+        <item name="android:divider">@color/divider</item>
+
+
+
+
+    </style>
+
+
+
+
+
+
+    <color name="primary">#2380FD</color>
+    <color name="primary_dark">#2380FD</color>
+    <color name="primary_light">#dc2380fd</color>
+    <color name="accent">#f44336</color>
+    <color name="primary_text">#575757</color>
+    <color name="secondary_text">#292929</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+</resources>
